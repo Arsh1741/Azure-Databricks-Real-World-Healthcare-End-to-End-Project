@@ -2,7 +2,7 @@
 .databricks/
 *.lock.hcl
 
-
+# added a new line and comment it
 
 # Environment files
 .env
