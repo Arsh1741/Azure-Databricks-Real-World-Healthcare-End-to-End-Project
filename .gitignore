@@ -3,6 +3,7 @@
 *.lock.hcl
 
 # comment a line
+# added a new line and comment it
 
 # Environment files
 .env
